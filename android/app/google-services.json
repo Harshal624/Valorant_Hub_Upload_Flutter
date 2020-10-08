@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "741975141028",
+    "firebase_url": "https://valorant-hub-upload-flutter.firebaseio.com",
+    "project_id": "valorant-hub-upload-flutter",
+    "storage_bucket": "valorant-hub-upload-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741975141028:android:b435350646b4056ed6d431",
+        "android_client_info": {
+          "package_name": "com.example.vhub_upload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741975141028-1utl3m6efobgb4mfquv2dpj8n47pm99l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChJxG7fTccrFf2lyEAsaPjdKGN9E-O0cI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741975141028-1utl3m6efobgb4mfquv2dpj8n47pm99l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
